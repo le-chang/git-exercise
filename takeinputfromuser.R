@@ -5,3 +5,4 @@ my.greeting <- readline(prompt="How are you?")
 my.age <- as.integer(my.age)
 print(paste("Hi,", my.name, "next year you will be", my.age+1, "years old.", "I am ", my.greeting))
 #also another line
+#add another line
